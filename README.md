@@ -200,9 +200,10 @@ int main(int argc, char **argv)
 
 ## Output:
 ![github.logo](pca3.png)
-## Matrix initialization : 6.338138 sec.
-## Sum matrix on Host : 0.884061 sec.
-## Sum matrix on GPU2D : 0.012146 sec.
+
+# Matrix initialization : 6.338138 sec.
+# Sum matrix on Host : 0.884061 sec.
+# Sum matrix on GPU2D : 0.012146 sec.
 
 ## Result:
 Thus the program to perform PCA matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition has been successfully executed.
